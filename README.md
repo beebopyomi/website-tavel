@@ -4,8 +4,8 @@
 
 calvin
 
-miauwnix (doet alles)
+miauwnix
 
-lucas
+lucas (doet alles)
 
 moiza
