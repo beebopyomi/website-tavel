@@ -29,6 +29,10 @@ footer {
     text-align: center;
     padding: 10px;
     margin-top: 30px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px rgba(53, 50, 50, 0.086);
+    
 }
 
 section {
