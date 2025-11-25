@@ -2,18 +2,18 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f7f7f7;
+    background-color: gray;
 }
 
 header {
     background-image: linear-gradient(black, gray);
-    color: white;
+    color: rgb(117, 223, 133);
     padding: 20px;
     text-align: center;
 }
 
 nav a {
-    color: white;
+    color: rgb(117, 223, 133);
     margin: 0 15px;
     text-decoration: none;
     font-weight: bold;
@@ -21,10 +21,12 @@ nav a {
 
 main {
     padding: 20px;
+    color: rgb(101, 101, 101);
+    background-color: rgb(233, 237, 189);
 }
 
 footer {
-    background-color: #333;
+    background-color: rgb(0, 0, 0);
     color: white;
     text-align: center;
     padding: 10px;
@@ -32,7 +34,7 @@ footer {
 }
 
 section {
-    background: white;
+    background: rgb(215, 215, 215);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
